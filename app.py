@@ -1,5 +1,6 @@
 # Importing the necessary libraries
 from flask import Flask, request, render_template
+from flask_cors import CORS,cross_origin
 import numpy as np
 import pickle
 
@@ -7,11 +8,13 @@ app = Flask(__name__)  # Initialising flask app
 
 
 @app.route('/', methods=['GET'])  # route to display the Home page
+@cross_origin()
 def home():
     return render_template('index.html')
 
 
 @app.route('/predict', methods=['POST', 'GET'])  # route to show the predictions in web UI
+@cross_origin()
 def prediction():
     if request.method == 'POST':
         # reading the inputs given by the user
