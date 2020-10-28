@@ -3,4 +3,4 @@
 ![Python](https://img.shields.io/badge/Python-3.7-blueviolet)
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
-![Cloud](https://img.shields.io/badge/Cloud-TMDB-orange)
+![Cloud](https://img.shields.io/badge/Cloud-AWS-orange)
