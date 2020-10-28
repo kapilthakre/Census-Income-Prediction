@@ -15,4 +15,4 @@ In this Project, we are going to predict whether a person's annual income is mor
 * If you are searching for Code, Algorithms used and Accuracy of the model Please Open "Income Prediction.ipynb" file
 
 
-![](Readme/webapp.gif)
+![](Readme/webapp.jpg)
