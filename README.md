@@ -13,3 +13,4 @@ In this Project, we are going to predict whether a person's annual income is mor
 * If you want to view the deployed model, click on the following link : http://incomeprediction-env-1.eba-j2jwzsax.us-east-2.elasticbeanstalk.com/
 
 * If you are searching for Code, Algorithms used and Accuracy of the model Please Open "Income Prediction.ipynb" file
+![](Readme/income prediction.gif)
