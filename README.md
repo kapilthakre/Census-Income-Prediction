@@ -12,6 +12,6 @@ In this Project, we are going to predict whether a person's annual income is mor
 
 
 ## WebApp
-* If you want to view the deployed model, click on the following link: https://incomep.herokuapp.com/
+* If you want to view the deployed model, click on the following link : https://incomep.herokuapp.com/
 
 * If you are searching for Code, Algorithms used and Accuracy of the model Please Open "Income Prediction.ipynb" file
